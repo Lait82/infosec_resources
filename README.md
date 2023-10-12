@@ -1,1 +1,1 @@
-# Infosec Resources
+# infosec_resources
